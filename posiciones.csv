@@ -1,0 +1,16 @@
+Ticker,Empresa,Mercado,Competidor1,Ticker1,Competidor2,Ticker2
+UNH,UnitedHealth Group,NYSE,Elevance Health,ELV,Cigna Group,CI
+DEO,Diageo,NYSE (ADR) / LSE,Pernod Ricard,RI.PA,Constellation Brands,STZ
+TEP,Teleperformance,Euronext Paris,Concentrix,CNXC,TTEC Holdings,TTEC
+GPN,Global Payments,NYSE,Fidelity National Information Services,FIS,Adyen,ADYEN.AS
+FI,Fiserv,NYSE,Fidelity National Information Services,FIS,Jack Henry & Associates,JKHY
+EPAM,EPAM Systems,NYSE,Endava,DAVA,Grid Dynamics,GDYN
+GLOB,Globant,NYSE,Endava,DAVA,Accenture,ACN
+GOOGL,Alphabet,NASDAQ,Amazon,AMZN,Apple,AAPL
+META,Meta Platforms,NASDAQ,Snap,SNAP,Pinterest,PINS
+MSFT,Microsoft,NASDAQ,Amazon,AMZN,Oracle,ORCL
+NVDA,NVIDIA,NASDAQ,AMD,AMD,Intel,INTC
+BYMA,Bolsas y Mercados Argentinos,BYMA,B3 Brasil Bolsa Balcao,B3SA3,CME Group,CME
+PAM,Pampa Energia,NYSE (ADR) / BYMA,Transportadora de Gas del Sur,TGS,Central Puerto,CEPU
+YPF,YPF,NYSE (ADR) / BYMA,Petrobras,PBR,Ecopetrol,EC
+VIST,Vista Energy,NYSE / BYMA,Petrobras,PBR,Devon Energy,DVN
